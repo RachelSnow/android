@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="window_background">#ff222222</color>
+    <color name="window_background">#fd7ed7</color>
 
-    <color name="color_primary">#ff222222</color>
-    <color name="color_primary_dark">#ff111111</color>
+    <color name="color_primary">#faa6f6</color>
+    <color name="color_primary_dark">#f440e7</color>
     <color name="color_secondary">#ffffff</color>
-    <color name="color_secondary_dark">#000000</color>
+    <color name="color_secondary_dark">#f510de</color>
 
-    <color name="color_highlight">#ffff0000</color>
+    <color name="color_highlight">#ef38e9</color>
 
-    <color name="color_accent">#ff880000</color>
+    <color name="color_accent">#f517db</color>
     <color name="color_accent_light">#fffaffbd</color>
-    <color name="color_accent_gradient_dark">#ff700000</color>
-    <color name="color_accent_gradient_light">#ffa00000</color>
-    <color name="text_color_link">#fffaffbd</color>
-    <color name="text_color_link_dark">#ff880000</color>
+    <color name="color_accent_gradient_dark">#531050</color>
+    <color name="color_accent_gradient_light">#af20e2</color>
+    <color name="text_color_link">#8e1a94</color>
+    <color name="text_color_link_dark">#df22c9</color>
 
-    <color name="text_color_primary">#ffffffff</color>
-    <color name="text_color_primary_dark">#e0e0e0</color>
-    <color name="text_color_secondary">#ff777777</color>
-    <color name="text_color_secondary_dark">#ff4a4a4a</color>
+    <color name="text_color_primary">#400643</color>
+    <color name="text_color_primary_dark">#68295c</color>
+    <color name="text_color_secondary">#b4149c</color>
+    <color name="text_color_secondary_dark">#f304f7</color>
     <color name="text_color_edit">#e0e0e0</color>
-    <color name="text_color_edit_dark">#000000</color>
+    <color name="text_color_edit_dark">#822491</color>
 
     <color name="text_color_error">#ff0000</color>
 
@@ -29,8 +29,8 @@
     <color name="edit_background_dark">#fffaffbd</color>
 
     <color name="area_background">#ffffff</color>
-    <color name="area_background_dark">#ff111111</color>
-    <color name="area_background_dark_invert">#aa111111</color>
+    <color name="area_background_dark">#f7a0f1</color>
+    <color name="area_background_dark_invert">#aaf84be4</color>
 
     <color name="color_accept">#32CD32</color>
     <color name="color_reject">#cd0000</color>
